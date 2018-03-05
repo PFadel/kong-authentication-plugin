@@ -1,5 +1,5 @@
 package = "kong-middleware-plugin"
-version = "1.0.8-1"
+version = "0.0.0-1"
 source = {
    url = "https://github.com/stone-payments/kong-middleware-plugin",
 }
