@@ -1,7 +1,7 @@
 package = "kong-middleware-plugin"
 version = "0.0.0-2"
 source = {
-   url = "https://github.com/PFadel/kong-middleware-plugin",
+   url = "https://github.com/PFadel/kong-authentication-plugin",
 }
 description = {
   summary = "A Kong plugin that enables services to act as middlewares for requests",
