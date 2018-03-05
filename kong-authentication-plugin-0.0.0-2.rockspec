@@ -1,4 +1,4 @@
-package = "kong-middleware-plugin"
+package = "kong-authentication-plugin"
 version = "0.0.0-2"
 source = {
    url = "https://github.com/PFadel/kong-authentication-plugin",
